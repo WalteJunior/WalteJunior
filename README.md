@@ -26,7 +26,7 @@
 
 ###
 
-<h2 align="left">Estou aprendendo</h2>
+<h2 align="left">aprendendo</h2>
 
 ###
 
