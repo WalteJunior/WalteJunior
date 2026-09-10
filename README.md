@@ -2,7 +2,7 @@
 
 ###
 # 💫 About Me:
-Olá! 👋 Sou o Walter<br><br>Desenvolvedor Full Stack Jr. em transição de carreira, vindo de uma base sólida em Suporte de TI e Infraestrutura (Service Desk, redes, ERP).<br><br>Trago da minha experiência em TI uma visão prática de infraestrutura, banco de dados e resolução de problemas sob pressão (SLA), que agora aplico no desenvolvimento de sistemas.<br><br>📫 Contato: walterjuniordossanto@gmail.com |<br> [LinkedIn](https://www.linkedin.com/in/waltjunior/)
+Desenvolvedor Full Stack Jr. em transição de carreira, vindo de uma base sólida em Suporte de TI e Infraestrutura (Service Desk, redes, ERP).<br><br>Trago da minha experiência em TI uma visão prática de infraestrutura, banco de dados e resolução de problemas sob pressão (SLA), que agora aplico no desenvolvimento de sistemas.<br><br>📫 Contato: walterjuniordossanto@gmail.com |<br> [LinkedIn](https://www.linkedin.com/in/waltjunior/)
 
 
 ## 🌐 Socials:
