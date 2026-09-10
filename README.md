@@ -5,7 +5,7 @@
 
 ###
 
-<img data-importer="image" align="right" height="150" src="[https://i.imgflip.com/65efzo.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGplaGh1ZzZ3Z3l5NnNydXMyeHV4cjQ3amQ1aTVjcGlndDVpdWIxMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif)"  />
+<img data-importer="image" align="right" height="150" src="[[https://i.imgflip.com/65efzo.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGplaGh1ZzZ3Z3l5NnNydXMyeHV4cjQ3amQ1aTVjcGlndDVpdWIxMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif)](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGplaGh1ZzZ3Z3l5NnNydXMyeHV4cjQ3amQ1aTVjcGlndDVpdWIxMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif)"  />
 
 ###
 
@@ -36,10 +36,3 @@
   </a>
 </div>
 
-###
-
-<br clear="both">
-
-<img data-importer="snake" src="https://raw.githubusercontent.com/WalteJunior /WalteJunior /snake-output/snake.svg" alt="Snake animation" />
-
-###
